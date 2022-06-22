@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(240, 240, 240);
+}
+
+.alert-style{
+    position: absolute;
+    top: 18%;
+    right: 35%;
+    width: 30%;
+    text-align: center;
+
+}
+
+.pointer{
+    cursor: pointer;
+}

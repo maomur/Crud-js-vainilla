@@ -208,3 +208,4 @@ function alertSuccessFuncion(mensaje = "Ha ocurrido un error", color = ''){
         alertS.remove();
       }, 3000)
 }
+

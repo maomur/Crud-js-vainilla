@@ -14,3 +14,7 @@ body {
 .pointer{
     cursor: pointer;
 }
+
+.filtro{
+    display: none;
+}

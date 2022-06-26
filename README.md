@@ -7,7 +7,7 @@
 - Flexbox
 - Grid CSS
 - Responsive Desing
-- 100% JavasCript!!
+- 100% JavaScript!!
 - Programación Funcional
 - Bootstrap
 

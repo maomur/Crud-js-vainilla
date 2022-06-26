@@ -1,15 +1,14 @@
 # CRUD VANILA JAVASCRIPT
 
-## Full Home
+## [Live Version](https://maomur.github.io/Crud-js-vainilla/)
 
-### Metodología:
+## Metodología:
 
 - Flexbox
 - Grid CSS
+- Responsive Desing
+- 100% JavasCript!!
 - Programación Funcional
 - Bootstrap
-- Media Query
 
-![Screen Versión Web](https://raw.githubusercontent.com/maomur/practicas-html-y-css-full-home/main/assets/images/full-home.png)
-
-![Screen Versión Responsive](https://raw.githubusercontent.com/maomur/practicas-html-y-css-full-home/main/assets/images/full-home-responsive.png)
+![Screen Versión](https://raw.githubusercontent.com/maomur/Crud-js-vainilla/master/assets/crud-vainilla-js.png)
